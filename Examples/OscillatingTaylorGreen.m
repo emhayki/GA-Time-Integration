@@ -112,7 +112,7 @@ for k = 1:numel(methods)
 end
  
 % ------------------------------------------
-% PLOTTING
+% Plotting
 % ------------------------------------------
 
 for k = 1:numel(methods)
