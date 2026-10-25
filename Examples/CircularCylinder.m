@@ -38,7 +38,7 @@ cfg.pressureNode = [];
 cfg.pressureValue = 0;
 cfg.backflowSmoothing = 0.01;
 
-cfg.outputFolder = 'CircularCylinder5';
+cfg.outputFolder = 'CircularCylinder';
 
 cfg.saveVideo = true;
 cfg.videoFrameRate = 30;
