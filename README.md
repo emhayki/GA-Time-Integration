@@ -22,4 +22,4 @@ https://github.com/user-attachments/assets/3b435f58-d71f-4378-90b6-b199e297e764
 
 https://github.com/user-attachments/assets/17b727df-45f8-4162-b8e3-8073f140b52d
 
-**Code:** [`Examples/BackwardFacingStep/`](Examples/BackwardFacingStep/)
+**Code:** [`Examples/BackwardFacingStep.m`](Examples/BackwardFacingStep.m)
